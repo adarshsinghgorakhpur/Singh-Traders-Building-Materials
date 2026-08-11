@@ -1,5 +1,3 @@
-# 🚀 Project Url - https://singh-traders-building-materials.netlify.app/
-
 # 🚀 Modern React Web App (Vite + Tailwind)
 
 A fast, responsive, and beautifully designed web application built using **React**, **Vite**, and **Tailwind CSS**. This project follows a clean component-based architecture and is optimized for performance, scalability, and modern UI/UX.
